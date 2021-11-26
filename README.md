@@ -1,4 +1,4 @@
-Hi, my name's viscount.
+Hi, my name's Viscount.
 
 I am currently studying Computer Science at A-Level.
 
